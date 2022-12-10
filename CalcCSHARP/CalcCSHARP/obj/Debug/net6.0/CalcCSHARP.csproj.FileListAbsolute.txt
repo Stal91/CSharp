@@ -1,0 +1,15 @@
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.csproj.AssemblyReference.cache
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.AssemblyInfoInputs.cache
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.AssemblyInfo.cs
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.csproj.CoreCompileInputs.cache
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\bin\Debug\net6.0\CalcCSHARP.exe
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\bin\Debug\net6.0\CalcCSHARP.deps.json
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\bin\Debug\net6.0\CalcCSHARP.runtimeconfig.json
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\bin\Debug\net6.0\CalcCSHARP.dll
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\bin\Debug\net6.0\CalcCSHARP.pdb
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.dll
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\refint\CalcCSHARP.dll
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.pdb
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\CalcCSHARP.genruntimeconfig.cache
+C:\Users\phlga\OneDrive\Documentos\alura\c#\bytebank\CalcCSHARP\CalcCSHARP\obj\Debug\net6.0\ref\CalcCSHARP.dll
