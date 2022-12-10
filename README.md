@@ -1,3 +1,3 @@
 # CSharp
-CursoC#
+Curso C#
 Exercicio Alura
